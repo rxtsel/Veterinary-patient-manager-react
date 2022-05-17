@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="container mx-auto mt-20">
       <Header />
-      <GithubCorner href="https://github.com/rxtsel/" target="_blank" size={100}/>
+      <GithubCorner href="https://github.com/rxtsel/Veterinary-patient-manager-react" target="_blank" size={100}/>
       <div className='mt-12 mx-12 md:flex'>
         <Formulario
           pacientes={pacientes}
