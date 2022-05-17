@@ -1,4 +1,4 @@
-# Veterinary patient manager
+# Veterinary patient manager 🐈
 
 ### This repository contains my practices with React and Tailwindcss.
 
