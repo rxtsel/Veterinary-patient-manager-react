@@ -1,4 +1,4 @@
-# Patients Administer
+# Veterinary patient manager
 
 ### This repository contains my practices with React and Tailwindcss.
 
@@ -7,6 +7,7 @@ Use:
 - Hooks.
 - Props.
 - LocalStorage.
+- Responsive Design.
 
 <details>
 <summary>Gallery</summary>
