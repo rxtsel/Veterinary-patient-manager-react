@@ -8,6 +8,7 @@ Use:
 - Props.
 - LocalStorage.
 - Responsive Design.
+- Dark Mode.
 
 <details>
 <summary>Gallery</summary>
