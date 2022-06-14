@@ -13,7 +13,7 @@ Use:
 <details>
 <summary>Gallery</summary>
   
-![2](https://user-images.githubusercontent.com/85462420/168758619-894dd261-bd2e-4738-8fc1-de9802a7cbc5.png)
+![image](https://user-images.githubusercontent.com/85462420/173693924-dd0e6c0b-d0db-4ea0-ae71-e854af2dd610.png)
   
  ![image](https://user-images.githubusercontent.com/85462420/173693482-8df585b4-381a-44b1-927a-5148f8ca42f5.png)
 
